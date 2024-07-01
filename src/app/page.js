@@ -1,4 +1,4 @@
-import BankHolidaysForm from './BankHolidaysForm';
+import BankHolidaysForm from '../components/BankHolidaysForm';
 
 export default function Home() {
   return (
